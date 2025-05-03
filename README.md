@@ -1,4 +1,4 @@
-# Differentially Private Deep Learning for Image Classification
+# Privacy Preservation using Differential Privacy in MNIST DATASET
 
 This repository contains an implementation of differentially private (DP) deep learning for image classification on the MNIST dataset. It demonstrates how to train neural networks with strong privacy guarantees while maintaining high utility.
 
