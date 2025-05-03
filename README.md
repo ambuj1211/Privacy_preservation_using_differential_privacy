@@ -79,9 +79,9 @@ Key privacy analyses include:
 
 ## Results
 
-With a noise multiplier of 1.1 and appropriate clipping, the model achieves:
+With a noise multiplier of 4 and appropriate clipping, the model achieves:
 - Good classification accuracy on MNIST
-- Strong differential privacy guarantees (ε < 10)
+- Strong differential privacy guarantees (less ε more private)
 - Significant protection against membership inference attacks
 - Minimal prediction differences when training examples are removed
 
