@@ -1,0 +1,6 @@
+Differential_Privacy.ipynb ( main projet file) ( This file give you brief understanding about how differential privacy work and how it preserve privacy) 
+Mnist_Classification_using_CNN.ipynb ( This is file to understand how mnist dataset classification work on CNN without differentially private)
+mnist_classification_Using_ANN.ipynb ( This is file to understand how mnist dataset classification work on ANN without differentially private)
+
+
+( If you are not able to open any file on github please download these files to open in your plateform)
