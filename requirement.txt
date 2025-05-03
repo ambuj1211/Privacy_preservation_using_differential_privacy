@@ -1,0 +1,8 @@
+python 3.10
+jupyter notebook 7.4.0
+tensorflow
+matplotlib
+numpy
+sklearn
+keras
+seaborn
